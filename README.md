@@ -4,7 +4,9 @@ Code for reproducing figures in "Discharge-Only Proxy SOH Estimation via Load-No
 
 ## Data
 
-The dataset is from [Liu et al. (2025)](https://www.nature.com/articles/s41467-025-56485-7), publicly available at http://ivstskl.changan.com.cn/?p=2697.
+The dataset is from [Liu et al. (2025)](https://www.nature.com/articles/s41467-025-56485-7), made publicly available by IVST (State Key Laboratory of Intelligent Vehicle Safety Technology) under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+
+**This repository does not contain the dataset.** Please download the data directly from the original source: http://ivstskl.changan.com.cn/?p=2697. The dataset license prohibits redistribution to third parties (see [Terms of Use](http://ivstskl.changan.com.cn/?p=2758)). Data paths in the figure scripts must be updated to point to your local copy.
 
 ## Figures
 
