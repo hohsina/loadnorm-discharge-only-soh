@@ -10,12 +10,13 @@ The dataset is from [Liu et al. (2025)](https://www.nature.com/articles/s41467-0
 
 ## Figures
 
-- `fig1.py` — Pipeline overview
-- `fig2.py` — Label validity assessment
-- `fig3.py` — Main prediction performance
-- `fig4.py` — LoadNorm mechanism evidence
-- `fig5.py` — Generalization limits
-- `fig6.py` — Reliability framework
+- `figures/fig1.py` — Pipeline overview
+- `figures/fig2.py` — Label validity assessment
+- `figures/fig3.py` — Main prediction performance
+- `figures/fig4.py` — LoadNorm mechanism evidence
+- `figures/fig5.py` — Generalization limits
+- `figures/fig6.py` — Reliability framework
+- `si_figures/supplementary_figures.py` — Supplementary Information figures
 
 ## Requirements
 
